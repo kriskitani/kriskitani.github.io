@@ -1,4 +1,5 @@
 ![headshot](kitani_kris.jpg)
+![rilogo](riLogo2019.svg)
 
 ## Kris Kitani PhD  
 
