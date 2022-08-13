@@ -24,6 +24,8 @@ We innovate across the full spectrum of perception including vision-based human 
 We develop computational models for reinforcement learning, inverse reinforcement learning, imitation learning, game-theoretic modeling and Neural Architecture Search.
 We build real-world systems to enable cyber-physical interaction including wearable camera systems, multi-modal sensors, portable navigational aides and assistive mobile robots.
 
+[Lab Publications](https://scholar.google.com/citations?user=yv3sH74AAAAJ&hl=en) | [Cognitive Assistance Lab](https://www.cs.cmu.edu/~NavCog/) | [EGO4D Consortium](https://ego4d-data.org) |
+
 ***
 
 ## Hiring Information:
