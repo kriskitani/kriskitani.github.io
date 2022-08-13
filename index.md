@@ -81,5 +81,15 @@ University of Tokyo with Yoichi Sato (MS 2005, PhD 2008)
 Engineer at KLA-Tencor (2000-2003)  
 University of Southern California (BS, Electrical Engineering 2000)  
 
+***
+
+## Teaching:
+
+* Graduate Computer Vision (16-720) - F22, F21, F20, F19, S18 
+* Undergraduate Computer Vision (16-385) - S17, S16, S15, S14 
+* Computational Photography (15-463) - F16, F15, F14, F13
+* Statistical Techniques in Robotics (16-831) - S22, S21, S20, S19, F18, S18, F17, F16, F15
+
+
 
 
