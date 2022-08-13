@@ -43,16 +43,16 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 
 **Short Bio**
 
-Associate Research Professor at CMU (2019-present)
-MSCV Program Director (2018-present)
-Assistant Research Professor at CMU (2016-2019)
-Systems Scientist at CMU (2013-2016)
-Postdoctoral Research Fellow at CMU with Martial Hebert and Drew Bagnell (2011-2013)
-Jyokyo (Research Associate / Assistant Professor) at UEC Tokyo with Hideki Koike (2008-2011)
-Visiting scholar at UCSD with Serge Belongie  (2010)
-University of Tokyo with Yoichi Sato (MS 2005, PhD 2008)
-Engineer at KLA-Tencor (2000-2003)
-University of Southern California (BS, Electrical Engineering 2000)
+Associate Research Professor at CMU (2019-present)  
+MSCV Program Director (2018-present)  
+Assistant Research Professor at CMU (2016-2019)  
+Systems Scientist at CMU (2013-2016)  
+Postdoctoral Research Fellow at CMU with Martial Hebert and Drew Bagnell (2011-2013)  
+Jyokyo (Research Associate / Assistant Professor) at UEC Tokyo with Hideki Koike (2008-2011)  
+Visiting scholar at UCSD with Serge Belongie  (2010)  
+University of Tokyo with Yoichi Sato (MS 2005, PhD 2008)  
+Engineer at KLA-Tencor (2000-2003)  
+University of Southern California (BS, Electrical Engineering 2000)  
 
 
 
