@@ -1,6 +1,6 @@
 ![headshot](kitani_kris.jpg)
 
-### Kris Kitani  
+## Kris Kitani PhD  
 
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
 * ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU
