@@ -30,6 +30,28 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ***
 
+**Current Lab Members:** (as of Fall 2022)
+
+* Ben Newman (RI) with H.Admoni
+* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE)
+* Navyata Sanghvi (RI)
+* [Rawal Khirodkar](https://rawalkhirodkar.github.io/) (RI)
+* [Jack Li](https://yujheli.github.io/) (ECE)
+* Jinkun Cao (RI)
+* Erica Weng (RI)
+* [Zhengyi Luo](https://zhengyiluo.github.io/) (RI)
+* Jenny Nan (RI)
+* Shun Iwase (RI)
+* Jinhyung (David) Park (RI)
+* Gerard Maggiolino (MSCV'22)
+* Adnan Ahmad (MSCV'22)
+* Daisuke Sato (RI Project Scientist) with C.Asakawa
+* [Xingyu Liu](https://xingyul.github.io) (RI Postdoc)
+* Sean Crane (RI Research Associate)
+* Karnik Ram (RI Research Associate)
+
+***
+
 **Bio:**
 
 Kris M. Kitani is an associate research professor and director of the MS in Computer Vision program of the Robotics Institute at Carnegie Mellon University.
