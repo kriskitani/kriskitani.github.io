@@ -12,7 +12,7 @@
 
 ***
 
-**Lab Research Focus:**
+### Lab Vision 
 
 The vision of our lab is to realize robust autonomous systems built for real-world perception and interactive decision-making.
 The key focus areas of our lab are perception, decision-making and interaction.
@@ -24,13 +24,13 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ***
 
-**Hiring Information:**
+### Hiring Information:
 
 (August 2022) All positions are currently filled for Fall 2022. 
 
 ***
 
-**Current Lab Members:** (as of Fall 2022)
+### Current Lab Members:
 
 * Ben Newman (RI PhD) with H.Admoni
 * [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD)
@@ -53,7 +53,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ***
 
-**Bio:**
+### Bio:
 
 Kris M. Kitani is an associate research professor and director of the MS in Computer Vision program of the Robotics Institute at Carnegie Mellon University.
 He received his BS at the University of Southern California and his MS and PhD at the University of Tokyo.
@@ -64,7 +64,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 [NSF-STYLE BIOSKETCH (PDF)](./Kitani_Biosketch.pdf)
 
 
-**Short Bio**
+**Chronological**
 
 Associate Research Professor at CMU (2019-present)  
 MSCV Program Director (2018-present)  
