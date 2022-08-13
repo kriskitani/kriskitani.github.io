@@ -41,6 +41,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Erica Weng (RI PhD)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI PhD)
 * Jenny Nan (RI PhD)
+* Rohan Choudhury (RI PhD) with Laszlo Jeni
 * Shun Iwase (RI PhD)
 * Jinhyung (David) Park (RI PhD)
 * Gerard Maggiolino (MSCV'22)
