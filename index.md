@@ -2,6 +2,8 @@
 
 ## Kris Kitani PhD  
 
+Office: Smith Hall (EDSH) 211
+
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
 * ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU
 * ***Program Director*** - Master of Science Computer Vision (MSCV) Program, RI, CMU  
