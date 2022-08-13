@@ -85,7 +85,7 @@ University of Southern California (BS, Electrical Engineering 2000)
 
 ## Teaching:
 
-* Graduate Computer Vision (16-720) - F22, [F21](Computer_Vision_16_720B_Syllabus_Fall_2021.pdf), [F20](Computer_Vision_16_720B_Syllabus_Fall_2020.pdf), S18 
+* Graduate Computer Vision (16-720) - F22, [F21](Computer_Vision_16_720B_Syllabus_Fall_2021.pdf), [F20](Computer_Vision_16_720B_Syllabus_Fall_2020.pdf), [S18](16720_S18_Computer_Vision_Syllabus.pdf) 
 * Undergraduate Computer Vision (16-385) - [F19](16385_F19_Computer_Vision_Syllabus.pdf), S17, S16, S15, S14 
 * Computational Photography (15-463) - F16, F15, F14, F13
 * Statistical Techniques in Robotics (16-831) - [S22](RoboStats_16_831_Syllabus_Spring_2022.pdf), [S21](RoboStats_16_831_Syllabus_Spring_2021.pdf), S20, S19, F18, S18, F17, F16, F15
