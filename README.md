@@ -1,1 +1,1 @@
-Hello world
+![headshot](kitani_kris.jpg)
