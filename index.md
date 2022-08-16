@@ -30,7 +30,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(August 2022) All positions are currently filled for Fall 2022. 
+(August 2022) All paid MS and PhD positions are currently filled for Fall 2022. 
 
 ***
 
