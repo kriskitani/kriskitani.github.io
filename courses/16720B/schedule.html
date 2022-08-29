@@ -1,0 +1,457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>16720 - Computer Vision</title>
+
+    <link href="./16720_Fall_2022/default.css" rel="stylesheet" type="text/css">
+    <meta property="og:title" content="Learning for 3D Vision">
+    <meta property="og:type" content="website">
+    <style type="text/css">
+    </style>
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.1077.0" data-gr-ext-installed="">
+    <div id="header">
+        <div id="logo">
+            <h1 class="logo-header">
+                <center>
+                    16-720-B: Computer Vision [Fall 2022]
+                </center>
+            </h1>
+
+            <h2 class="logo-header">
+                <table border="0" align="center">
+                    <tbody>
+                        <tr>
+                            <td colspan="4" align="center"><span class="menubar">
+                                    <a href="./schedule.html">Schedule</a> |
+                                    <a href="https://piazza.com/cmu/fall2022/16720b">Piazza </a> |
+                                    <a
+                                        href="./16720_Fall_2022/Computer_Vision_16_720B_Syllabus_Fall_2022.pdf">Syllabus</a>
+                                    |
+                                    <a href="">Office Hour [TBD]</a>
+                                </span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </h2>
+
+            <h2 class="logo-header">
+                <center>
+                    <!-- <span style="font-size:92%;color:#777;font-weight:normal">Instructor: <a href="https://shubhtuls.giWedb.io">Shubham Tulsiani</a></span><br/> -->
+                    <span style="font-size:92%;color:#777;font-weight:normal">Monday and Wednesday, 11:50 AM - 1:10
+                        PM</span><br>
+                    <span style="font-size:92%;color:#777;font-weight:normal">@ DH [Doherty Hall] A302
+                    </span>
+                </center>
+            </h2><br>
+
+
+            <table class="schedule" align="center" border="1" width="980">
+                <tbody>
+                    <tr>
+                        <td align="center" width="80"><strong>Lecture</strong></td>
+                        <td align="center" width="154"><strong>Date</strong></td>
+                        <td align="center" width="530"><strong>Topic</strong></td>
+                        <td align="center" width="240"><strong>Assignments</strong></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" style="background-color: cyan" align="center" height="20"
+                            valign="middle">Part I: Image Representation</td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="20" valign="middle">WEEK 1</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">1</td>
+                        <td sdnum="1033;0;@" align="center">Mon 08/29/2022</td>
+                        <td align="left"> Introductions, Policies, Grading, Applications of CV</td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">2</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 08/31/2022</td>
+                        <td align="left"> Filtering, Image Pyramids, Reconstruction</td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 2</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16"> </td>
+                        <td sdnum="1033;0;@" align="center">Mon 09/05/2022</td>
+                        <td align="left"> NO CLASS (Labor Day)</td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">3</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 09/07/2022</td>
+                        <td align="left"> Fourier Domain </td>
+
+                        <td align="left">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 3</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">4</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 09/12/2022</td>
+                        <td align="left"> Image Boundaries: Gradient Filters, Hough Transform </td>
+
+                        <td align="left">
+                            HW1 Released
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">5</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 09/14/2022</td>
+                        <td align="left"> Feature Detection: Harris Corners, Multi-scale Detection</td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 4</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">6</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 09/19/2022</td>
+                        <td align="left"> Feature Descriptors: SIFT, HOG </td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">7</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 09/21/2022</td>
+                        <td align="left"> Image Representations: GIST, BOW </td>
+
+                        <td align="left">
+                            HW1 Due
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" style="background-color: cyan" align="center" height="20"
+                            valign="middle">Part II: Visual Cognition</td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 5</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">8</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 09/26/2022</td>
+                        <td align="left"> Classfication methods: K-NN, Naive Bayes, SVM </td>
+
+                        <td align="left">
+                            HW2 Released
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">9</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 09/28/2022</td>
+                        <td align="left"> Training Neural Networks: Perceptron, Gradient Descent, SGD </td>
+
+                        <td align="left">
+                            HW1 Graded
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 6</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">10</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 10/03/2022</td>
+                        <td align="left"> Optimization (Momentum, ADAM), Convolutional Neural Networks</td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">11</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 10/05/2022</td>
+                        <td align="left"> LeNet, AlexNet (ReLU, LN, dropout), VGG, GoogleNet </td>
+
+                        <td align="left">
+                            HW2 Due
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 7</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">12</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 10/10/2022</td>
+                        <td align="left"> ResNet, RCNN, Fast RCNN, Faster RCNN, YOLO, SSD </td>
+
+                        <td align="left">
+                            HW3 Released
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">13</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 10/12/2022</td>
+                        <td align="left"> Visual Transformers (ViT, DETR), GAN, VAE </td>
+
+                        <td align="left">
+                            HW2 Graded
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 8 - Fall
+                            Break</td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" style="background-color: cyan" align="center" height="20"
+                            valign="middle">Part III: Motion and Structure</td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 9</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">14</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 10/24/2022</td>
+                        <td align="left"> 2D Transformations (Euclidean, similarity, affine, projective) </td>
+
+                        <td align="left">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">15</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 10/26/2022</td>
+                        <td align="left">
+                            Homography estimation (algebraic, data-driven)
+                        </td>
+
+                        <td align="left">
+                            HW3 Due
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 10</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">16</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 10/31/2022</td>
+                        <td align="left">
+                            Single View Geometry (camera matrix, vanishing points)
+                        </td>
+
+                        <td align="left">
+                            HW4 Released
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">17</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 11/02/2022</td>
+                        <td align="left"> Pose Estimation, Triangulation, Epipolar Geometry </td>
+
+                        <td align="left">
+                            HW3 Graded
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 11</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">18</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 11/07/2022</td>
+                        <td align="left"> Fundamental Matrix Estimation (algebraic, data-driven)</td>
+
+                        <td align="left">
+                            HW4 Due
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">19</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 11/09/2022</td>
+                        <td align="left"> SFM (Reconstruction, Bundle Adjustment) </td>
+
+                        <td align="left">
+                            HW5 Released
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 12</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">20</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 11/14/2022</td>
+                        <td align="left"> Stereo (Rectification, Block Matching, Graph Cut, data-driven) </td>
+
+                        <td align="left">
+                            HW4 Graded
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">21</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 11/16/2022</td>
+                        <td align="left"> Optical Flow (Constant Flow, Horn and Schunck, data-driven)</td>
+
+                        <td align="left">
+                            HW5 Due
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 13</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">22</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 11/21/2022</td>
+                        <td align="left"> Image Alignment (Lucas-Kanade, Baker-Matthews)</td>
+
+                        <td align="left">
+                            HW6 Released
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16"></td>
+                        <td sdnum="1033;0;@" align="center"> Wed 11/23/2022</td>
+                        <td align="left">NO CLASS (Thanksgiving Break)</td>
+
+                        <td align="left">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" style="background-color: cyan" align="center" height="20"
+                            valign="middle">Part IV: New Topics</td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 14</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">23</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 11/28/2022</td>
+                        <td align="left"> Advanced Topics </td>
+
+                        <td align="left">
+                            HW5 Graded
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">24</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 11/30/2022</td>
+                        <td align="left"> Advanced Topics</td>
+
+                        <td align="left">
+                            HW6 Due
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="4" class="schedule_week" align="center" height="16" valign="middle">WEEK 15</td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">25</td>
+                        <td sdnum="1033;0;@" align="center"> Mon 12/05/2022</td>
+                        <td align="left"> Advanced Topics</td>
+
+                        <td align="left">
+                            HW6 Graded
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td sdval="2" sdnum="1033;" align="center" height="16">26</td>
+                        <td sdnum="1033;0;@" align="center"> Wed 12/07/2022</td>
+                        <td align="left"> Advanced Topics </td>
+
+                        <td align="left">
+
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+            <br>
+            <br>
+            <div id="content">
+                <h3>Homework Submission, Regrades and Allowed Late Days</h3>
+                5 late days for the entire semester. Use up to 2 late days on one assignment. No credit for assignments
+                submitted
+                after using all late days (to prevent delay of grading). All regrade requests must be made within 2
+                weeks of
+                the
+                deadline. Additional late day can be granted for factors outside of your control (e.g., medical
+                emergencies,
+                sudden family emergencies, multiple overlapping assignment deadlines) but will not be granted for
+                planned
+                activities (e.g., conference deadlines, vacation travel).
+            </div>
+            <p>&nbsp;</p>
+        </div>
+
+
+
+
+    </div>
+</body>
+<div id="tcb-wrapper" style="z-index: 2147483647 !important; position: relative !important;"></div>
+<grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+
+</html>
