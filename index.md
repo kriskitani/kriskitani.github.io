@@ -41,19 +41,19 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Navyata Sanghvi (RI PhD)
 * [Rawal Khirodkar](https://rawalkhirodkar.github.io/) (RI PhD)
 * [Jack Li](https://yujheli.github.io/) (ECE PhD)
-* Jinkun Cao (RI PhD)
+* [Jinkun Cao](https://www.jinkuncao.com) (RI PhD)
 * Erica Weng (RI PhD)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI PhD)
 * Jenny Nan (RI PhD)
 * Rohan Choudhury (RI PhD) with Laszlo Jeni
-* Shun Iwase (RI PhD)
+* [Shun Iwase](https://sh8.io/) (RI PhD)
 * Jinhyung (David) Park (RI PhD)
 * Gerard Maggiolino (MSCV'22)
 * Adnan Ahmad (MSCV'22)
 * Daisuke Sato (RI Project Scientist) with C.Asakawa
 * [Xingyu Liu](https://xingyul.github.io) (RI Postdoc)
 * Sean Crane (RI Research Associate)
-* Karnik Ram (RI Research Associate)
+* [Karnik Ram](https://karnikram.info) (RI Research Associate)
 
 ***
 
