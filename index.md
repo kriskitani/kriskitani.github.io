@@ -5,8 +5,7 @@
 Office: Smith Hall (EDSH) 211
 
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
-* ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU
-* ***Program Director*** - Master of Science Computer Vision (MSCV) Program, RI, CMU  
+* ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU 
 * ***Research Fellow*** - Institute of Industrial Science (IIS), University of Tokyo  
 * ***Guest Professor*** - Keio University
     
@@ -58,7 +57,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Bio:
 
-Kris M. Kitani is an associate research professor and director of the MS in Computer Vision program of the Robotics Institute at Carnegie Mellon University.
+Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University.
 He received his BS at the University of Southern California and his MS and PhD at the University of Tokyo.
 His research projects span the areas of computer vision, machine learning and human computer interaction.
 In particular, his research interests lie at the intersection of first-person vision, human activity modeling and inverse reinforcement learning.
