@@ -70,7 +70,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 **Chronological**
 
 Associate Research Professor at CMU (2019-present)  
-MSCV Program Director (2018-present)  
+MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
 Systems Scientist at CMU (2013-2016)  
 Postdoctoral Research Fellow at CMU with Martial Hebert and Drew Bagnell (2011-2013)  
