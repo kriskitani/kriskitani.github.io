@@ -51,9 +51,8 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Gerard Maggiolino (MSCV'22)
 * Adnan Ahmad (MSCV'22)
 * Daisuke Sato (RI Project Scientist) with C.Asakawa
-* [Xingyu Liu](https://xingyul.github.io) (RI Postdoc)
+* [Xingyu Liu](https://xingyul.github.io) (RI Project Scientist)
 * Sean Crane (RI Research Associate)
-* [Karnik Ram](https://karnikram.info) (RI Research Associate)
 
 ***
 
