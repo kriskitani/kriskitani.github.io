@@ -36,7 +36,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 ## Current Lab Members:
 
 * Ben Newman (RI PhD) with H.Admoni
-* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD)
 * Navyata Sanghvi (RI PhD)
 * [Rawal Khirodkar](https://rawalkhirodkar.github.io/) (RI PhD)
 * [Jack Li](https://yujheli.github.io/) (ECE PhD)
@@ -47,11 +46,17 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Rohan Choudhury (RI PhD) with Laszlo Jeni
 * [Shun Iwase](https://sh8.io/) (RI PhD)
 * Jinhyung (David) Park (RI PhD)
-* Gerard Maggiolino (MSCV'22)
-* Adnan Ahmad (MSCV'22)
 * Daisuke Sato (RI Project Scientist) with C.Asakawa
 * [Xingyu Liu](https://xingyul.github.io) (RI Project Scientist)
 * Sean Crane (RI Research Associate)
+
+***
+
+## Recent Alumni:
+
+* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD 2022)
+* Gerard Maggiolino (MSCV'22)
+* Adnan Ahmad (MSCV'22)
 
 ***
 
