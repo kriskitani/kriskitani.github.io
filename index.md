@@ -6,6 +6,7 @@ Office: Smith Hall (EDSH) 211
 
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
 * ***Research Scientist*** - Meta
+* ***Co-Director*** - Extended Reality Technology Center (XRTC), Carnegie Mellon University (CMU)
 * ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU 
 * ***Research Fellow*** - Institute of Industrial Science (IIS), University of Tokyo  
 * ***Guest Professor*** - Keio University
