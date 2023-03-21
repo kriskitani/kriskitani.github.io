@@ -31,7 +31,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(Feb 2023) All positions are currently filled for Spring 2023. 
+(March 2023) All positions are currently filled for Spring and Fall 2023. 
 
 ***
 
