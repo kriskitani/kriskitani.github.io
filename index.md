@@ -49,7 +49,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 * [Shun Iwase](https://sh8.io/) (RI PhD)
 * Jinhyung (David) Park (RI PhD)
 * Daisuke Sato (RI Project Scientist) with C.Asakawa
-* [Xingyu Liu](https://xingyul.github.io) (RI Project Scientist)
 * Sean Crane (RI Research Associate)
 
 ***
@@ -57,6 +56,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 ## Recent Alumni:
 
 * [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD 2022)
+* [Xinshuo Weng](https://www.xinshuoweng.com) (RI PhD 2022)
 * Gerard Maggiolino (MSCV'22)
 * Adnan Ahmad (MSCV'22)
 
