@@ -31,7 +31,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(March 2023) All positions are currently filled for Spring and Fall 2023. 
+(August 2023) If you are a MS/PhD candidate accepted to CMU for the 2023 academic year, please reach out to me via email during orientation week. 
 
 ***
 
@@ -50,13 +50,16 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Jinhyung (David) Park (RI PhD)
 * Daisuke Sato (RI Project Scientist) with C.Asakawa
 * Sean Crane (RI Research Associate)
+* Abrham Gebreselasie (CMU Africa Research Associate)
+* Mana Masuda (RI Research Associate)
+* Kenta Mukoya (Visiting Industrial Researcher)
 
 ***
 
 ## Recent Alumni:
 
-* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD 2022)
-* [Xinshuo Weng](https://www.xinshuoweng.com) (RI PhD 2022)
+* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD 2022 to Waymo)
+* [Xinshuo Weng](https://www.xinshuoweng.com) (RI PhD 2022 to Nvidia)
 * Gerard Maggiolino (MSCV'22)
 * Adnan Ahmad (MSCV'22)
 
@@ -64,7 +67,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Bio:
 
-Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University.
+Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University, and a Research Scientist at Meta FAIR.
 He received his BS at the University of Southern California and his MS and PhD at the University of Tokyo.
 His research projects span the areas of computer vision, machine learning and human computer interaction.
 In particular, his research interests lie at the intersection of first-person vision, human activity modeling and inverse reinforcement learning.
@@ -75,6 +78,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 
 **Chronological**
 
+AI Research Scientist, Meta FAIR (2023-present)
 Associate Research Professor at CMU (2019-present)  
 MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
