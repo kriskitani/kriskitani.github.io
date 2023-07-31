@@ -56,15 +56,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ***
 
-## Recent Alumni:
-
-* [Yan Xu](http://www.cs.cmu.edu/~yxu2/) (ECE PhD 2022 to Waymo)
-* [Xinshuo Weng](https://www.xinshuoweng.com) (RI PhD 2022 to Nvidia)
-* Gerard Maggiolino (MSCV'22)
-* Adnan Ahmad (MSCV'22)
-
-***
-
 ## Bio:
 
 Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University, and a Research Scientist at Meta FAIR.
