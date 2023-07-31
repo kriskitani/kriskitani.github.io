@@ -69,7 +69,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 
 **Chronological**
 
-AI Research Scientist, Meta FAIR (2023-present)
+AI Research Scientist, Meta FAIR (2023-present)  
 Associate Research Professor at CMU (2019-present)  
 MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
