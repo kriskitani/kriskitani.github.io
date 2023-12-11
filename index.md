@@ -31,7 +31,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(August 2023) If you are a MS/PhD candidate accepted to CMU for the 2023 academic year, please reach out to me via email during orientation week. 
+(December 2023) No open positions 
 
 ***
 
@@ -40,7 +40,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Ben Newman (RI PhD) with H.Admoni
 * Navyata Sanghvi (RI PhD)
 * [Rawal Khirodkar](https://rawalkhirodkar.github.io/) (RI PhD)
-* [Jack Li](https://yujheli.github.io/) (ECE PhD)
 * [Jinkun Cao](https://www.jinkuncao.com) (RI PhD)
 * Erica Weng (RI PhD)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI PhD)
@@ -52,7 +51,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Sean Crane (RI Research Associate)
 * Abrham Gebreselasie (CMU Africa Research Associate)
 * Mana Masuda (RI Research Associate)
-* Kenta Mukoya (Visiting Industrial Researcher)
 
 ***
 
