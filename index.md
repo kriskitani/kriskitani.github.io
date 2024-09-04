@@ -39,7 +39,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 * Ben Newman (RI PhD) with H.Admoni
 * Navyata Sanghvi (RI PhD)
-* [Rawal Khirodkar](https://rawalkhirodkar.github.io/) (RI PhD)
 * [Jinkun Cao](https://www.jinkuncao.com) (RI PhD)
 * Erica Weng (RI PhD)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI PhD)
@@ -47,10 +46,6 @@ We build real-world systems to enable cyber-physical interaction including weara
 * Rohan Choudhury (RI PhD) with L. Jeni
 * [Shun Iwase](https://sh8.io/) (RI PhD)
 * Jinhyung (David) Park (RI PhD)
-* Daisuke Sato (RI Project Scientist) with C.Asakawa
-* Sean Crane (RI Research Associate)
-* Abrham Gebreselasie (CMU Africa Research Associate)
-* Mana Masuda (RI Research Associate)
 
 ***
 
