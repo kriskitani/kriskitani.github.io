@@ -31,21 +31,20 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(December 2023) No open positions 
+(Feb 2025) No open positions 
 
 ***
 
-## Current Lab Members:
+## Current PhD Students:
 
-* Ben Newman (RI PhD) with H.Admoni
-* Navyata Sanghvi (RI PhD)
-* [Jinkun Cao](https://www.jinkuncao.com) (RI PhD)
-* Erica Weng (RI PhD)
-* [Zhengyi Luo](https://zhengyiluo.github.io/) (RI PhD)
-* Jenny Nan (RI PhD)
-* Rohan Choudhury (RI PhD) with L. Jeni
-* [Shun Iwase](https://sh8.io/) (RI PhD)
-* Jinhyung (David) Park (RI PhD)
+* Navyata Sanghvi (RI)
+* [Jinkun Cao](https://www.jinkuncao.com) (RI)
+* Erica Weng (RI)
+* [Zhengyi Luo](https://zhengyiluo.github.io/) (RI)
+* Jenny Nan (RI)
+* Rohan Choudhury (RI) with L. Jeni
+* [Shun Iwase](https://sh8.io/) (RI)
+* Jinhyung (David) Park (RI)
 
 ***
 
