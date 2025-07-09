@@ -31,7 +31,8 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(July 2025) Hourly part-time RA positions in (a)  Mesh processing, Computational geometry; (b) Animation, auto-rigging, skeleton estimation; (c) Agent development, LLM APIs, LangChain. Please send resume and portfolio.
+(July 2025) New hourly RA positions starting in the Fall
+[//]: # Hourly part-time RA positions in (a)  Mesh processing, Computational geometry; (b) Animation, auto-rigging, skeleton estimation; (c) Agent development, LLM APIs, LangChain. Please send resume and portfolio.
 
 ***
 
