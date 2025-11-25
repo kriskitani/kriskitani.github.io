@@ -6,8 +6,6 @@ Office: Smith Hall (EDSH) 211
 
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
 * ***Co-Director*** - Extended Reality Technology Center (XRTC), Carnegie Mellon University (CMU)
-* ***Research Scientist*** - Meta, Artificial Intelligence Technology
-* ***Courtesy Professor*** - Electrical and Computer Engineering (ECE) Department, CMU 
 * ***Research Fellow*** - Institute of Industrial Science (IIS), University of Tokyo  
 * ***Guest Professor*** - Keio University
     
@@ -38,15 +36,15 @@ We build real-world systems to enable cyber-physical interaction including weara
 ## Current PhD Students:
 
 * Navyata Sanghvi (RI)
-* [Jinkun Cao](https://www.jinkuncao.com) (RI)
-* Erica Weng (RI)
+* Erica Weng (RI) with D. Ramanan
 * Jenny Nan (RI)
 * Rohan Choudhury (RI) with L. Jeni
-* [Shun Iwase](https://sh8.io/) (RI)
 * Jinhyung (David) Park (RI)
 
 ## Recent Alumni:
 
+* [Shun Iwase](https://sh8.io/) (RI)
+* [Jinkun Cao](https://www.jinkuncao.com) (RI)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI)
 * Ben Newman (RI) with H. Admoni
 
@@ -55,7 +53,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Bio:
 
-Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University, and a Research Scientist at Meta.
+Kris M. Kitani is an associate research professor of the Robotics Institute at Carnegie Mellon University.
 He received his BS at the University of Southern California and his MS and PhD at the University of Tokyo.
 His research projects span the areas of computer vision, machine learning and human computer interaction.
 In particular, his research interests lie at the intersection of first-person vision, human activity modeling and inverse reinforcement learning.
@@ -67,7 +65,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 **Chronological**
 
 Associate Research Professor at CMU (2019-present)  
-AI Research Scientist, Meta (2023-present)  
+AI Research Scientist, Meta (2023-2025)  
 MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
 Systems Scientist at CMU (2013-2016)  
