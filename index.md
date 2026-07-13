@@ -6,7 +6,6 @@ Office: Smith Hall (EDSH) 211
 
 * ***Associate Research Professor*** - Robotics Institute (RI), Carnegie Mellon University (CMU)
 * ***Co-Director*** - Extended Reality Technology Center (XRTC), Carnegie Mellon University (CMU)
-* ***Consultant*** - Roblox
 * ***Research Fellow*** - Institute of Industrial Science (IIS), University of Tokyo  
 * ***Guest Professor*** - Keio University
     
