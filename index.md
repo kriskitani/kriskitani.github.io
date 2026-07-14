@@ -29,20 +29,24 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(July 2025) New hourly part-time RA positions in (a)  Mesh processing, computational geometry; (b) Animation, auto-rigging, skeleton estimation; (c) Agents, LLM APIs, LangChain. Please send resume and portfolio.
+(July 2026) New CMU RI MSR students looking for an RA position, please reach out to me the first week of classes if you are interested in a position. Please send me your CV and a brief email about your research interests.
 
 ***
 
-## Current PhD Students:
+## Current Members:
 
-* Navyata Sanghvi (RI)
-* Erica Weng (RI) with D. Ramanan
-* Jenny Nan (RI)
-* Rohan Choudhury (RI) with L. Jeni
-* Jinhyung (David) Park (RI)
+* Navyata Sanghvi (RI PhD)
+* [Jyun-Ting Song](https://jyuntins.github.io/) (RI PhD)
+* [Shirley Ma](https://shirleymaxx.github.io/) (PD)
+* [Nicolas Ugrinovic](https://nicolasugrinovic.github.io/) (PD)
+* David Whitewholf (PS)
 
 ## Recent Alumni:
 
+* [Jinhyung (David) Park](https://jindapark.github.io/) (RI)
+* Jenny Nan (RI)
+* [Erica Weng](https://ericaweng.github.io/) (RI) with D. Ramanan
+* [Rohan Choudhury](https://rccchoudhury.github.io/) (RI) with L. Jeni
 * [Shun Iwase](https://sh8.io/) (RI)
 * [Jinkun Cao](https://www.jinkuncao.com) (RI)
 * [Zhengyi Luo](https://zhengyiluo.github.io/) (RI)
@@ -65,6 +69,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 **Chronological**
 
 Associate Research Professor at CMU (2019-present)  
+Consultant, Roblox (2026)
 AI Research Scientist, Meta (2023-2025)  
 MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
