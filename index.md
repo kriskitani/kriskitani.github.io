@@ -85,7 +85,9 @@ University of Southern California (BS, Electrical Engineering 2000)
 
 ## Teaching:
 
-* Graduate Computer Vision (16-720) - [F22](./courses/16720B/), 
+* Graduate Computer Vision (16-720) -
+[F26](https://kriskitani.github.io/16720-computer-vision/),
+[F22](./courses/16720B/), 
 [F21](.courses/syllbus/Computer_Vision_16_720B_Syllabus_Fall_2021.pdf), 
 [F20](.courses/syllbus/Computer_Vision_16_720B_Syllabus_Fall_2020.pdf), 
 [S18](.courses/syllbus/16720_S18_Computer_Vision_Syllabus.pdf) 
