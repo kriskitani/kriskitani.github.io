@@ -46,7 +46,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 ## Recent Alumni:
 
 * [Jinhyung (David) Park](https://jindapark.github.io/) (RI)
-* Jenny Nan (RI)
+* [Jenny Nan](https://jnan1.github.io/) (RI)
 * [Erica Weng](https://ericaweng.github.io/) (RI) with D. Ramanan
 * [Rohan Choudhury](https://rccchoudhury.github.io/) (RI) with L. Jeni
 * [Shun Iwase](https://sh8.io/) (RI)
