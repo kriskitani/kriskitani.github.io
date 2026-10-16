@@ -72,7 +72,7 @@ His work has been awarded the Marr Prize honorable mention at ICCV 2017, best pa
 **Chronological**
 
 Associate Research Professor at CMU (2019-present)  
-Consultant, Roblox (2026)
+Consultant, Roblox (2026)  
 AI Research Scientist, Meta (2023-2025)  
 MSCV Program Director (2018-2022)  
 Assistant Research Professor at CMU (2016-2019)  
