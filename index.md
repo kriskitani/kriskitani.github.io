@@ -29,7 +29,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(July 2026) New CMU RI MSR students looking for an RA position, please reach out to me the first week of classes if you are interested in a position. Please send me your CV and a brief email about your research interests.
+(OCt 2026) No openings at this time.
 
 ***
 
@@ -37,9 +37,11 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 * Navyata Sanghvi (RI PhD)
 * [Jyun-Ting Song](https://jyuntins.github.io/) (RI PhD)
-* [Shirley Ma](https://shirleymaxx.github.io/) (PD)
-* [Nicolas Ugrinovic](https://nicolasugrinovic.github.io/) (PD)
-* David Whitewholf (PS)
+* [Yuan Li](https://y-u-a-n-l-i.github.io/) (RI PhD)
+* [Shirley Ma](https://shirleymaxx.github.io/) (RI PD)
+* [Nicolas Ugrinovic](https://nicolasugrinovic.github.io/) (RI PD)
+* David Whitewholf (RI PS)
+* Takaaki Shiratori (RI PS)
 
 ## Recent Alumni:
 
