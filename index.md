@@ -8,6 +8,7 @@ Office: Smith Hall (EDSH) 211
 * ***Co-Director*** - Extended Reality Technology Center (XRTC), Carnegie Mellon University (CMU)
 * ***Research Fellow*** - Institute of Industrial Science (IIS), University of Tokyo  
 * ***Guest Professor*** - Keio University
+* ***Consultant*** - Roblox
     
 **Research Areas:** Computer Vision, Machine Learning, Autonomous Systems
 
