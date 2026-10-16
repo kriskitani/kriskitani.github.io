@@ -30,7 +30,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-(OCt 2026) No openings at this time.
+(Oct 2026) No openings at this time.
 
 ***
 
