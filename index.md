@@ -30,7 +30,7 @@ We build real-world systems to enable cyber-physical interaction including weara
 
 ## Hiring Information:
 
-* (Oct 2026) No openings at this time.
+* (Nov 2026) No openings at this time.
 * **Prospective PhD Students:** Please apply to the [CMU Robotics Institute PhD program](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/). Thank you for your interest, and apologies that I cannot respond to individual inquiries.
 
 ***
